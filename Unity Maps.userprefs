@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MapReader.cs">
+    <Files>
+      <File FileName="Assets/Scripts/RoadMaker.cs" Line="44" Column="4" />
+      <File FileName="Assets/Scripts/Serialization/OsmNode.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MapReader.cs" Line="43" Column="3" />
+      <File FileName="Assets/Scripts/Serialization/BaseOsm.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Serialization/OsmBounds.cs" Line="26" Column="2" />
+      <File FileName="Assets/Scripts/Serialization/OsmWay.cs" Line="60" Column="24" />
+      <File FileName="Assets/Scripts/InfrastructureBehaviour.cs" Line="7" Column="2" />
+      <File FileName="Assets/Scripts/BuildingMaker.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MercatorProjection.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
